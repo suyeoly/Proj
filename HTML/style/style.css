@@ -1,0 +1,46 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color: aqua; 
+    font-size: 20px;
+}
+
+a:visited {
+    color: black;
+    font-weight: light;
+}
+
+a:hover {
+    color: yellowgreen;
+    font-size: 20px;
+    font-size: large;
+}
+
+.boldMe {
+    font-weight: bold;
+}
+
+.underlineMe{
+    text-decoration: underline;
+}   
+
+.indexbackground{
+    background-image: url(/image/foggy-landscape-forest-in-the-morning-beautiful-sunrise-mist-cover-mountain-background-at-countryside-winter-free-photo.jpg);
+    background-position: center;
+    background-repeat:  repeat-x;
+}
+
+.box1{
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+}
+
+.box2{
+    padding: 5px;
+}
+
+.box3{
+    margin: 50px;
+}
+
+
